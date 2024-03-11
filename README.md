@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Phyton-based data science
 - 💞️ I’m looking to collaborate on my favorite future projects ;)
 - 📫 How to reach me: @linkedIn
-- 😄 Pronouns: she/her
+
 
 
 <!---
