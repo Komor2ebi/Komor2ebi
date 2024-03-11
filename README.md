@@ -1,5 +1,5 @@
 - 🧬 I’m interested in natural sciences
-- 👩🏻‍💻 I’m currently getting into coding and data science
+- 👩‍💻 I’m currently getting into coding and data science
 - 🤓 I’m looking to collaborate on my favorite future projects ;)
 - 📫 How to reach me: @linkedIn
 
