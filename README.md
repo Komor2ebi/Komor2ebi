@@ -1,4 +1,4 @@
-- 👩‍💻 I’m currently working as Data Science Coach
+- 👩‍💻 I’m currently working as data science coach
 - 🧬 I’m a neurobiologist with training in data science
 - 🤓 I’m looking to collaborate on my future data projects ;)
 - 📫 How to reach me: @linkedIn
