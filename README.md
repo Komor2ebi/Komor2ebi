@@ -1,6 +1,9 @@
 👩‍💻 I’m currently working as data science coach 
+
 🧬 I’m a neurobiologist with training in data science (https://orcid.org/0000-0002-6900-5139)
+
 🤓 I’m looking to collaborate on my future data projects ;)
+
 📫 How to reach me: @linkedIn
 
 
