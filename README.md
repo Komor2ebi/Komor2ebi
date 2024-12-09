@@ -4,7 +4,7 @@
 
 🆔 Here's my orcid: https://orcid.org/0000-0002-6900-5139
 
-🤓 I’m looking forward to collaborate on my future data projects ;)
+🤓 I’m looking forward to collaborate on my future data projects
 
 📫 How to reach me: @linkedIn
 
